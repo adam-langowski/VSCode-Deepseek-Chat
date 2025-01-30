@@ -19,8 +19,7 @@ ollama run deepseek-r1:7b
 ```
 ### 2. Clone this repository
 ```bash
-git clone https://github.com/adam-langowski/local-llm-vscode-extension.git
-cd local-llm-vscode-extension
+git clone https://github.com/adam-langowski/VSCode-Deepseek-Chat.git
 ```
   
 ### 3. Inside the project install the required dependencies:
